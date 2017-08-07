@@ -11,6 +11,6 @@ jspm_packages
 .npm
 .next
 dist
-
+.vscode
 
 **/yarn.lock
